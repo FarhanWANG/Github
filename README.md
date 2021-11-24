@@ -5,9 +5,9 @@ git建立本地仓库并上传代码到GitHub
 
 　　2、输入个人信息　
 
-　　　　git config --global user.name "xxxx" 
+　　　　git config --global user.name "FarhanWANG" 
 
-　　　　git config --global user.email "xxxxx@qq.com"
+　　　　git config --global user.email "WANG1674@e.ntu.edu.sg"
 
 　　3、在本地项目目录创建本地仓库
 
@@ -27,7 +27,7 @@ git建立本地仓库并上传代码到GitHub
 
 　　7、关联本地仓库并上传代码
 
-　　　　git remote add origin https://github.com/vofill/test.git(新建repository后会有一个地址)
+　　　　git remote add origin https://github.com/FarhanWANG/test.git(新建repository后会有一个地址)
 
 　　8、最后执行上传推送命令
 
