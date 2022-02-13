@@ -17,6 +17,7 @@ git建立本地仓库并上传代码到GitHub
     
     4、在GitHub上新建一个repository
     
+    
     5、关联本地仓库并上传代码
 
 　　　　git remote add origin https://github.com/FarhanWANG/test.git(新建repository后会有一个地址)
